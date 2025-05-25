@@ -244,13 +244,8 @@ Each beach includes:
 
 ## 📱 Screenshots & Demo
 
-[url=https://postimg.cc/sv6TPmgR][img]https://i.postimg.cc/sv6TPmgR/Screenshot-20250525-054219-beachsafteyapp.png[/img][/url]
-
-[url=https://postimg.cc/LJJNxPJg][img]https://i.postimg.cc/LJJNxPJg/Screenshot-20250525-054303-beachsafteyapp.png[/img][/url]
-
-[url=https://postimg.cc/67RzXNL9][img]https://i.postimg.cc/67RzXNL9/Screenshot-20250525-054331-beachsafteyapp.png[/img][/url]
-
-[url=https://postimg.cc/w1nFZBNf][img]https://i.postimg.cc/w1nFZBNf/Screenshot-20250525-054313-beachsafteyapp.png[/img][/url]
+![Screenshot 1](https://i.postimg.cc/P5h0jFGN/Screenshot-20250525-054219-beachsafteyapp.png) ![Screenshot 2](https://i.postimg.cc/g2DQkqds/Screenshot-20250525-054303-beachsafteyapp.png)
+![Screenshot 3](https://i.postimg.cc/JhzgyDzL/Screenshot-20250525-054313-beachsafteyapp.png) ![Screenshot 4](https://i.postimg.cc/MG3L16nj/Screenshot-20250525-054331-beachsafteyapp.png)
 
 ---
 
