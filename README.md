@@ -120,7 +120,7 @@ server/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/beachsafetyapp.git
+   git clone https://github.com/RajputKartikeya/beachsafteyapp.git
    cd beachsafetyapp
    ```
 
@@ -243,6 +243,14 @@ Each beach includes:
 5. Open a Pull Request
 
 ## 📱 Screenshots & Demo
+
+[url=https://postimg.cc/sv6TPmgR][img]https://i.postimg.cc/sv6TPmgR/Screenshot-20250525-054219-beachsafteyapp.png[/img][/url]
+
+[url=https://postimg.cc/LJJNxPJg][img]https://i.postimg.cc/LJJNxPJg/Screenshot-20250525-054303-beachsafteyapp.png[/img][/url]
+
+[url=https://postimg.cc/67RzXNL9][img]https://i.postimg.cc/67RzXNL9/Screenshot-20250525-054331-beachsafteyapp.png[/img][/url]
+
+[url=https://postimg.cc/w1nFZBNf][img]https://i.postimg.cc/w1nFZBNf/Screenshot-20250525-054313-beachsafteyapp.png[/img][/url]
 
 ---
 
